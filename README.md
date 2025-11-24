@@ -6,7 +6,6 @@
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)]()
 
 A comprehensive Flutter application for conducting standardized Near and Distance vision acuity tests using the Tumbling E chart. Built with WHO-compliant optotype sizing and featuring an innovative camera-based distance measurement system powered by Google ML Kit's Face Detection.
